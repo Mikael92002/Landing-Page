@@ -1,2 +1,3 @@
 # Landing-Page
-Odin Project applying Flexbox skills
+Odin Project.
+Applying Flexbox skills to make a website.
